@@ -1,2 +1,2 @@
-name=input("Comment est-ce que tu t'appeles?")
+name=input("Tu t'appeles, comment?")
 print("Nique ta mère "+name+"!!!")
